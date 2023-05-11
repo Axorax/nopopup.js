@@ -1,0 +1,1 @@
+export function nopopup(o){void 0!=o&&Array.isArray(o)?o.forEach(o=>{window[o]=()=>{}}):alert=confirm=prompt=()=>{}}export default nopopup

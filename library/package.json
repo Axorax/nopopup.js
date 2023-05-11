@@ -1,0 +1,23 @@
+{
+  "name": "nopopup",
+  "version": "1.0.0",
+  "description": "Prevent popup boxes in JavaScript",
+  "main": "nopopup.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/nopopup.js.git"
+  },
+  "keywords": [
+    "browser",
+    "popup",
+    "popup-box",
+    "nopopup"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/nopopup.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/nopopup.js#readme"
+}
